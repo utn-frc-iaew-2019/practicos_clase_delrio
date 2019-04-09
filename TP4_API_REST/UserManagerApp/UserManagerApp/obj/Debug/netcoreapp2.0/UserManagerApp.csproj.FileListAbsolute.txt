@@ -1,0 +1,11 @@
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.deps.json
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.runtimeconfig.json
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.runtimeconfig.dev.json
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.dll
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.csprojAssemblyReference.cache
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.AssemblyInfoInputs.cache
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.AssemblyInfo.cs
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\bin\Debug\netcoreapp2.0\UserManagerApp.pdb
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.dll
+C:\Users\Lucas Del Rio\source\repos\UserManagerApp\UserManagerApp\obj\Debug\netcoreapp2.0\UserManagerApp.pdb
